@@ -21,7 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
-[foo](pages/dev-docs.md)
+[New Dev Onboardin](pages/dev-onboarding.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
