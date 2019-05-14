@@ -22,6 +22,7 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 [New Dev Onboardi](pages/dev-onboarding.md)
+[Tink1](pages/onb/thing1.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
